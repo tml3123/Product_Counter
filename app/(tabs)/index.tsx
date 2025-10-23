@@ -6,19 +6,19 @@ const cartItems = [
     id: 1,
     name: 'Wireless Headphones',
     price: 79.99,
-    image: 'https://cdn-icons-png.flaticon.com/512/104/104779.png',
+    image: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQnErBf_SS1dFZeFFAlARVIQcJV9_JyULZBLOy-44eBuDVlkeCRYQoEa-z6JnxME6qHw5LgUUDzYC3vhyTaWFwRq1FbUjhvxBsCLZohQjL4cDEzIdn2Qjl3',
   },
   {
     id: 2,
     name: 'Premium Coffee Mug',
     price: 24.99,
-    image: 'https://cdn-icons-png.flaticon.com/512/744/744922.png',
+    image: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGC7JuKS7nE-OCQf68F94_qTzJ0zMxbGvyRuiZZ24Pf8yR80PElHG4dRDfaXwC-3pWY4TBG-8DYazyMwx2YcJUOh-LzK7zz7dTrYzLOOQq_D8YB6v4wEXP',
   },
   {
     id: 3,
     name: 'Smartphone',
     price: 699.99,
-    image: 'https://cdn-icons-png.flaticon.com/512/528/528101.png',
+    image: 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSezJbfxH_Tp0osEp8JDDJznZco40ac3qA26evgok5s9sxGQcXGgXC4a8RZRyV-6CEBMcYGCumqJiyn7E-nQbjoEABZG6Vyq-F6p16hZaA',
   },
 ];
 
