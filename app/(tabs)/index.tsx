@@ -4,21 +4,27 @@ import { View, Text, Image, TouchableOpacity, StyleSheet, ScrollView } from 'rea
 const cartItems = [
   {
     id: 1,
-    name: 'Wireless Headphones',
+    name: 'Rolls-Royce Arcadia Droptail',
     price: 79.99,
-    image: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQnErBf_SS1dFZeFFAlARVIQcJV9_JyULZBLOy-44eBuDVlkeCRYQoEa-z6JnxME6qHw5LgUUDzYC3vhyTaWFwRq1FbUjhvxBsCLZohQjL4cDEzIdn2Qjl3',
+    image: 'https://mediapool.bmwgroup.com/cache/P9/202402/P90541259/P90541259-rolls-royce-arcadia-droptail-599px.jpg',
   },
   {
     id: 2,
-    name: 'Premium Coffee Mug',
+    name: 'Patek Philippe Grand Complications Dial Watch',
     price: 24.99,
-    image: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGC7JuKS7nE-OCQf68F94_qTzJ0zMxbGvyRuiZZ24Pf8yR80PElHG4dRDfaXwC-3pWY4TBG-8DYazyMwx2YcJUOh-LzK7zz7dTrYzLOOQq_D8YB6v4wEXP',
+    image: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS3C-lg_b9sAnUrEYRAr1MWZlhFQd4IBt-6KUSEngH0PMlX8byaD4027i3CdOO3udhDenH0OUOJIt1tnNzylubnUxq5l_-iiti-6cGjoLvjbDbuQ5l3ilh0OA',
   },
   {
     id: 3,
     name: 'Smartphone',
     price: 699.99,
     image: 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSezJbfxH_Tp0osEp8JDDJznZco40ac3qA26evgok5s9sxGQcXGgXC4a8RZRyV-6CEBMcYGCumqJiyn7E-nQbjoEABZG6Vyq-F6p16hZaA',
+  },
+  {
+    id: 4,
+    name: 'Noir Crocodile T-shirt',
+    price: 699.99,
+    image: 'https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/streams/2013/March/130326/1C6639342-tdy_130326_crocshirt.jpg',
   },
 ];
 
